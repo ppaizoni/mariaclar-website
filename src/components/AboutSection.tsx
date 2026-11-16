@@ -16,9 +16,10 @@ const AboutSection = () => {
             
             <div className="space-y-4 text-muted-foreground leading-relaxed">
               <p>
-                Mein Name ist <strong className="text-foreground">Mag. Maria Clar</strong>,
-                zertifizierte Lebens- und Sozialberaterin sowie Mediatorin. Seit vielen Jahren begleite ich
-                Menschen durch herausfordernde Lebensphasen.
+                Mein Name ist <strong className="text-foreground">Mag. Maria Clar</strong>.
+                Als Juristin, Lebens- und Sozialberaterin, systemische Coachin, Mediatorin und
+                Kommunikationstrainerin verbinde ich fachliche Kompetenz mit einem ganzheitlichen
+                Blick auf den Menschen.
               </p>
               <p>
                 Mit viel Empathie und Verständnis unterstütze ich Sie dabei, neue Perspektiven 

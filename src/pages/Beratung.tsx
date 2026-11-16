@@ -45,6 +45,7 @@ const Beratung = () => {
                 Ob es um Lebenskrisen, Beziehungsthemen, persönliche Entwicklung oder das
                 Finden neuer Lebensziele geht – die Beratung bietet Ihnen Unterstützung,
                 Orientierung und einen vertrauensvollen Rahmen für echte Veränderung.
+                Die Beratung biete ich als Einzelberatung und als Paarberatung an.
               </p>
             </div>
           </div>
