@@ -52,8 +52,9 @@
     --berry: 350 30% 55%;
     --berry-light: 350 30% 75%;
     --warm-brown: 30 15% 35%;
-    --brown: 26 32% 38%;
-    --brown-dark: 26 36% 28%;
+    --brown: 34 36% 70%;
+    --brown-dark: 33 32% 62%;
+    --brown-foreground: 26 36% 22%;
 
     /* Sidebar */
     --sidebar-background: 36 40% 95%;

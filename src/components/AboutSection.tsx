@@ -22,15 +22,16 @@ const AboutSection = () => {
                 Blick auf den Menschen.
               </p>
               <p>
-                Mit viel Empathie und Verständnis unterstütze ich Sie dabei, neue Perspektiven 
-                zu entwickeln und Ihren ganz persönlichen Weg zu finden. Ob Lebenskrise, 
-                beruflicher Neuanfang oder die Suche nach mehr Selbstfürsorge – gemeinsam 
-                finden wir Lösungen, die zu Ihnen passen.
+                Das Leben ist geprägt von Veränderungen, Begegnungen und Erfahrungen, die uns wachsen lassen, uns aber auch vor Herausforderungen stellen können. Manchmal geraten wir dabei aus dem Gleichgewicht, verlieren unsere eigenen Bedürfnisse aus den Augen oder stehen an einem Punkt, an dem wir uns neu orientieren möchten. Gerade in solchen Lebensphasen kann es wertvoll sein, innezuhalten, Gedanken zu ordnen und sich selbst wieder bewusster wahrzunehmen.
               </p>
               <p>
-                In einem geschützten Rahmen können Sie offen sprechen und werden gehört. 
-                Denn manchmal braucht es einen neutralen Blick von außen, um die eigenen 
-                Stärken wieder zu entdecken.
+                Als psychosoziale Beraterin begleite ich Sie mit Einfühlungsvermögen, Wertschätzung und einem ganzheitlichen Blick auf Ihre persönliche Lebenssituation. In meiner Arbeit verbinde ich psychosoziale Beratung mit Coaching und einem ressourcenorientierten Ansatz. Dabei geht es nicht darum, vorgefertigte Lösungen zu finden, sondern gemeinsam herauszuarbeiten, was Sie stärkt, was Ihnen wichtig ist und welcher Weg zu Ihnen und Ihrem Leben passt.
+              </p>
+              <p>
+                Mir ist es ein besonderes Anliegen, einen geschützten und vertrauensvollen Raum zu schaffen, in dem Sie sich öffnen können, ohne bewertet zu werden. Einen Raum, in dem alles Platz haben darf, was Sie beschäftigt, und in dem neue Perspektiven, innere Klarheit und persönliche Entwicklung entstehen können.
+              </p>
+              <p>
+                Im Mittelpunkt stehen Sie – mit Ihrer Geschichte, Ihren Gefühlen, Ihren Erfahrungen und all den Möglichkeiten, die in Ihnen liegen.
               </p>
             </div>
           </div>

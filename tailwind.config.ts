@@ -73,6 +73,7 @@ export default {
         brown: {
           DEFAULT: "hsl(var(--brown))",
           dark: "hsl(var(--brown-dark))",
+          foreground: "hsl(var(--brown-foreground))",
         },
         "warm-brown": "hsl(var(--warm-brown))",
       },
