@@ -25,7 +25,7 @@ const KrisenVeraenderungsprozesse = () => {
           </div>
           <div className="grid sm:grid-cols-3 gap-6 mt-12">
             {[
-              { icon: Shield, title: "Krisenintervention", text: "Professionelle Begleitung in akuten Belastungssituationen." },
+              { icon: Shield, title: "Ressourcenaktivierung", text: "Die eigenen Kraftquellen wiederentdecken und gezielt nutzen." },
               { icon: Zap, title: "Resilienz stärken", text: "Die innere Widerstandskraft aufbauen und festigen." },
               { icon: Mountain, title: "Neuanfang gestalten", text: "Nach der Krise neue Kraft und Richtung finden." },
             ].map((item, i) => (
@@ -41,7 +41,7 @@ const KrisenVeraenderungsprozesse = () => {
           <div className="mt-16 pt-10 border-t border-border">
             <h3 className="font-display text-xl text-foreground mb-3">Bereit für den ersten Schritt?</h3>
             <p className="text-muted-foreground mb-6">Das Kennenlerntelefonat ist unverbindlich und kostenlos. Das erste Beratungsgespräch ist kostenpflichtig.</p>
-            <Button size="lg" variant="sage" asChild>
+            <Button size="lg" variant="brown" asChild>
               <Link to="/#kontakt">Jetzt Kennenlerntelefonat vereinbaren</Link>
             </Button>
           </div>

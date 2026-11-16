@@ -75,7 +75,7 @@ const Coaching = () => {
               Das Kennenlerntelefonat ist unverbindlich und kostenlos.
               Das erste Beratungsgespräch ist kostenpflichtig.
             </p>
-            <Button size="lg" variant="sage" asChild>
+            <Button size="lg" variant="brown" asChild>
               <Link to="/#kontakt">Jetzt Kennenlerntelefonat vereinbaren</Link>
             </Button>
           </div>

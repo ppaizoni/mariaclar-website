@@ -6,7 +6,7 @@ const methods = [
   {
     icon: BookOpen,
     title: "Beratung",
-    description: "Professionelle psychologische Beratung in einem sicheren, wertschätzenden Rahmen.",
+    description: "Professionelle psychosoziale Beratung in einem sicheren, wertschätzenden Rahmen.",
     href: "/beratung",
   },
   {
@@ -102,14 +102,18 @@ const ServicesSection = () => {
           ))}
         </div>
 
-        {/* Quote */}
-        <div className="bg-card p-8 md:p-12 rounded-2xl border border-border shadow-sm mb-16 text-center">
-          <blockquote>
-            <p className="font-display text-xl md:text-2xl text-foreground leading-relaxed">
-              „Die zweite Lebenshälfte ist nicht das Ende von etwas – sie ist der Anfang von Ihnen."
-            </p>
-          </blockquote>
-        </div>
+        {/* 50+ & Longevity */}
+        <Link
+          to="/frauen-longevity"
+          className="group block bg-card p-8 md:p-12 rounded-2xl border border-border shadow-sm hover:border-primary/30 hover:shadow-lg transition-all duration-300 mb-16 text-center"
+        >
+          <p className="font-display text-xl md:text-2xl text-foreground leading-relaxed">
+            50+ & Longevity
+          </p>
+          <span className="mt-3 inline-block text-primary text-sm font-medium group-hover:underline">
+            Mehr erfahren →
+          </span>
+        </Link>
 
         {/* 6 Topic Tiles */}
         <div className="mb-12">
@@ -139,7 +143,7 @@ const ServicesSection = () => {
         </div>
 
         <div className="text-center">
-          <Button size="lg" variant="sage" onClick={scrollToContact}>
+          <Button size="lg" variant="brown" onClick={scrollToContact}>
             Kennenlerntelefonat vereinbaren
           </Button>
           <p className="text-muted-foreground text-sm mt-3">

@@ -32,7 +32,7 @@ const Mediation = () => {
             <div className="space-y-5 text-muted-foreground leading-relaxed">
               <p>
                 Mediation ist ein strukturiertes, freiwilliges Verfahren zur außergerichtlichen
-                Konfliktlösung. Als zertifizierte Mediatorin begleite ich Menschen dabei,
+                Konfliktlösung. Als Mediatorin begleite ich Menschen dabei,
                 festgefahrene Konflikte konstruktiv zu lösen – respektvoll, vertraulich und
                 auf Augenhöhe.
               </p>
@@ -44,9 +44,7 @@ const Mediation = () => {
               </p>
               <p>
                 Mediation eignet sich für Konflikte im privaten Umfeld, in Partnerschaften,
-                Familien, im Beruf oder zwischen Unternehmen. Sie ist oft schneller, günstiger
-                und nachhaltiger als ein gerichtliches Verfahren – und stärkt langfristig
-                die Beziehung zwischen den Beteiligten.
+                Familien, im Beruf oder zwischen Unternehmen.
               </p>
             </div>
           </div>
@@ -77,7 +75,7 @@ const Mediation = () => {
               Das Kennenlerntelefonat ist unverbindlich und kostenlos.
               Das erste Beratungsgespräch ist kostenpflichtig.
             </p>
-            <Button size="lg" variant="sage" asChild>
+            <Button size="lg" variant="brown" asChild>
               <Link to="/#kontakt">Jetzt Kennenlerntelefonat vereinbaren</Link>
             </Button>
           </div>

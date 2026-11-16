@@ -26,8 +26,8 @@ const SelbstwertInnereStabilitaet = () => {
           <div className="grid sm:grid-cols-3 gap-6 mt-12">
             {[
               { icon: Heart, title: "Selbstmitgefühl", text: "Sich selbst mit Freundlichkeit und Verständnis begegnen." },
-              { icon: Shield, title: "Innere Stabilität", text: "Eine starke innere Mitte entwickeln, die Stürmen standhält." },
-              { icon: Sun, title: "Selbstachtung", text: "Den eigenen Wert erkennen und ohne Bedingungen leben." },
+              { icon: Shield, title: "Innere Stabilität", text: "Eine starke innere Mitte entwickeln und im Gleichgewicht bleiben." },
+              { icon: Sun, title: "Selbstachtung", text: "Den eigenen Wert erkennen und die eigenen Grenzen respektieren." },
             ].map((item, i) => (
               <div key={i} className="bg-card p-6 rounded-xl border border-border">
                 <div className="p-3 bg-sage-light rounded-lg w-fit mb-4">
@@ -41,7 +41,7 @@ const SelbstwertInnereStabilitaet = () => {
           <div className="mt-16 pt-10 border-t border-border">
             <h3 className="font-display text-xl text-foreground mb-3">Bereit für den ersten Schritt?</h3>
             <p className="text-muted-foreground mb-6">Das Kennenlerntelefonat ist unverbindlich und kostenlos. Das erste Beratungsgespräch ist kostenpflichtig.</p>
-            <Button size="lg" variant="sage" asChild>
+            <Button size="lg" variant="brown" asChild>
               <Link to="/#kontakt">Jetzt Kennenlerntelefonat vereinbaren</Link>
             </Button>
           </div>

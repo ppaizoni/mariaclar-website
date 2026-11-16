@@ -16,6 +16,7 @@ const buttonVariants = cva(
         ghost: "hover:bg-muted hover:text-foreground",
         link: "text-primary underline-offset-4 hover:underline",
         sage: "bg-sage text-primary-foreground hover:bg-sage-dark shadow-sm hover:shadow-md",
+        brown: "bg-brown text-primary-foreground hover:bg-brown-dark shadow-sm hover:shadow-md",
         warm: "bg-cream-dark text-foreground hover:bg-cream border border-border",
       },
       size: {

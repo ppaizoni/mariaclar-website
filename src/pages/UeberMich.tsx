@@ -33,20 +33,28 @@ const UeberMich = () => {
 
               <div className="space-y-4 text-muted-foreground leading-relaxed">
                 <p>
-                  Ich begleite Menschen in herausfordernden Lebensphasen – einfühlsam, wertschätzend und auf Augenhöhe.
+                  Als Juristin, Lebens- und Sozialberaterin, systemische Coachin, Mediatorin und Kommunikationstrainerin verbinde ich fachliche Kompetenz mit einem ganzheitlichen Blick auf den Menschen.
                 </p>
                 <p>
-                  In meiner Arbeit verbinde ich psychologische Beratung mit Coaching und einem ganzheitlichen Blick auf das Leben. Jeder Mensch bringt seine eigene Geschichte, seine Ressourcen und seine Fragen mit – genau dort setze ich an. Mir ist es wichtig, einen geschützten Raum zu schaffen, in dem Klarheit entstehen darf, neue Perspektiven sichtbar werden und Entwicklung möglich ist.
+                  Das Leben ist geprägt von Veränderungen, Begegnungen und Erfahrungen, die uns wachsen lassen, uns aber auch vor Herausforderungen stellen können. Manchmal geraten wir dabei aus dem Gleichgewicht, verlieren unsere eigenen Bedürfnisse aus den Augen oder stehen an einem Punkt, an dem wir uns neu orientieren möchten. Gerade in solchen Lebensphasen kann es wertvoll sein, innezuhalten, Gedanken zu ordnen und sich selbst wieder bewusster wahrzunehmen.
                 </p>
                 <p>
-                  Meine Schwerpunkte liegen in den Bereichen Beziehung, persönliche Entwicklung und berufliche Orientierung. Ich unterstütze Sie dabei, eigene Bedürfnisse besser zu verstehen, Entscheidungen zu treffen und neue Wege zu gehen – in Ihrem Tempo und mit Blick auf das, was für Sie stimmig ist.
+                  Als psychosoziale Beraterin begleite ich Sie mit Einfühlungsvermögen, Wertschätzung und einem ganzheitlichen Blick auf Ihre persönliche Lebenssituation. In meiner Arbeit verbinde ich psychosoziale Beratung mit Coaching und einem ressourcenorientierten Ansatz. Dabei geht es nicht darum, vorgefertigte Lösungen zu finden, sondern gemeinsam herauszuarbeiten, was Sie stärkt, was Ihnen wichtig ist und welcher Weg zu Ihnen und Ihrem Leben passt.
                 </p>
                 <p>
-                  Ein besonderes Anliegen ist mir auch die Begleitung von Frauen in Zeiten hormoneller Veränderung. Gerade in den Wechseljahren können innere und äußere Herausforderungen auftreten, die Raum für Verständnis, Stabilität und Neuorientierung brauchen.
+                  Mir ist es ein besonderes Anliegen, einen geschützten und vertrauensvollen Raum zu schaffen, in dem Sie sich öffnen können, ohne bewertet zu werden. Einen Raum, in dem alles Platz haben darf, was Sie beschäftigt, und in dem neue Perspektiven, innere Klarheit und persönliche Entwicklung entstehen können.
                 </p>
                 <p>
-                  Was Sie bei mir finden: ein offenes Ohr, Klarheit in komplexen Situationen und eine achtsame Begleitung auf Ihrem Weg.
+                  Im Mittelpunkt stehen Sie – mit Ihrer Geschichte, Ihren Gefühlen, Ihren Erfahrungen und all den Möglichkeiten, die in Ihnen liegen.
                 </p>
+                <p className="pt-4 font-display text-xl text-foreground">Frauen in der Lebensmitte sind eine besondere Herzensangelegenheit von mir.</p>
+                <p>
+                  Diese Lebensphase bringt häufig Veränderungen mit sich – körperlich, emotional und manchmal auch in der persönlichen Lebensgestaltung. Gleichzeitig kann sie eine wertvolle Gelegenheit sein, innezuhalten, bisherige Lebenswege zu reflektieren und sich selbst mit neuer Klarheit und Wertschätzung zu begegnen.
+                </p>
+                <p>
+                  Ich möchte Frauen ermutigen, ihre Lebenserfahrung als Stärke zu erkennen, den eigenen Bedürfnissen wieder mehr Aufmerksamkeit zu schenken und diese Lebensphase selbstbestimmt, zuversichtlich und mit Lebensfreude zu gestalten.
+                </p>
+                <p className="font-display text-lg text-foreground italic">Denn manchmal beginnt der wichtigste Schritt nach vorne damit, sich selbst wieder näherzukommen.</p>
               </div>
             </div>
 
@@ -105,7 +113,7 @@ const UeberMich = () => {
               Das Kennenlerntelefonat ist unverbindlich und kostenlos.
               Das erste Beratungsgespräch ist kostenpflichtig.
             </p>
-            <Button size="lg" variant="sage" asChild>
+            <Button size="lg" variant="brown" asChild>
               <Link to="/#kontakt">Jetzt Kennenlerntelefonat vereinbaren</Link>
             </Button>
           </div>

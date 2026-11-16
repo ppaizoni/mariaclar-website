@@ -45,7 +45,7 @@ const TargetAudienceSection = () => {
               ))}
             </div>
 
-            <Button size="lg" variant="sage" onClick={scrollToContact}>
+            <Button size="lg" variant="brown" onClick={scrollToContact}>
               Jetzt Erstgespräch vereinbaren
             </Button>
           </div>

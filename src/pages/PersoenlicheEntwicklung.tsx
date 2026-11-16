@@ -41,7 +41,7 @@ const PersoenlicheEntwicklung = () => {
           <div className="mt-16 pt-10 border-t border-border">
             <h3 className="font-display text-xl text-foreground mb-3">Bereit für den ersten Schritt?</h3>
             <p className="text-muted-foreground mb-6">Das Kennenlerntelefonat ist unverbindlich und kostenlos. Das erste Beratungsgespräch ist kostenpflichtig.</p>
-            <Button size="lg" variant="sage" asChild>
+            <Button size="lg" variant="brown" asChild>
               <Link to="/#kontakt">Jetzt Kennenlerntelefonat vereinbaren</Link>
             </Button>
           </div>

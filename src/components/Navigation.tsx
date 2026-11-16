@@ -57,7 +57,7 @@ const Navigation = () => {
             </span>
             <span className="w-full h-px bg-border group-hover:bg-primary/50 transition-colors my-0.5" />
             <span className="text-[10px] md:text-xs text-muted-foreground tracking-[0.15em] uppercase font-sans">
-              Psychologische Beratung
+              Psychosoziale Beratung
             </span>
           </Link>
 

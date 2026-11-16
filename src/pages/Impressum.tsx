@@ -37,7 +37,7 @@ const Impressum = () => {
 
             <div className="space-y-2 text-muted-foreground leading-relaxed">
               <p className="font-semibold text-foreground">Unternehmensgegenstand</p>
-              <p>Psychologische Beratung, Lebens- und Sozialberatung, Mediation, Coaching</p>
+              <p>Psychosoziale Beratung, Lebens- und Sozialberatung, Mediation, Coaching</p>
             </div>
 
             <div className="space-y-2 text-muted-foreground leading-relaxed">

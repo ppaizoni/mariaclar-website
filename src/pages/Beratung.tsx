@@ -1,7 +1,7 @@
 import Navigation from "@/components/Navigation";
 import Footer from "@/components/Footer";
 import { Button } from "@/components/ui/button";
-import { ArrowLeft, BookOpen, Shield, Users } from "lucide-react";
+import { ArrowLeft, BookOpen, Users } from "lucide-react";
 import { Link } from "react-router-dom";
 
 const Beratung = () => {
@@ -26,12 +26,12 @@ const Beratung = () => {
               Methode
             </p>
             <h1 className="font-display text-display-sm md:text-display text-foreground mb-6">
-              Psychologische Beratung
+              Psychosoziale Beratung
             </h1>
 
             <div className="space-y-5 text-muted-foreground leading-relaxed">
               <p>
-                Psychologische Beratung schafft einen geschützten Raum, in dem Sie Ihre
+                Psychosoziale Beratung schafft einen geschützten Raum, in dem Sie Ihre
                 Gedanken, Gefühle und Herausforderungen offen ansprechen können –
                 ohne Bewertung, ohne Druck. Im Mittelpunkt steht Ihre individuelle Geschichte
                 und das, was Sie bewegt.
@@ -50,11 +50,10 @@ const Beratung = () => {
           </div>
 
           {/* Features */}
-          <div className="grid sm:grid-cols-3 gap-6 mt-12">
+          <div className="grid sm:grid-cols-2 gap-6 mt-12">
             {[
               { icon: BookOpen, title: "Einzelberatung", text: "Individuelle Sitzungen, ganz auf Ihre Bedürfnisse abgestimmt." },
-              { icon: Shield, title: "Krisenintervention", text: "Professionelle Begleitung in akuten Belastungssituationen." },
-              { icon: Users, title: "Lösungsorientiert", text: "Gemeinsam finden wir Wege, die wirklich zu Ihnen passen." },
+              { icon: Users, title: "Paarberatung", text: "Gemeinsam als Paar Klarheit gewinnen und neue Wege miteinander finden." },
             ].map((item, i) => (
               <div key={i} className="bg-card p-6 rounded-xl border border-border">
                 <div className="p-3 bg-sage-light rounded-lg w-fit mb-4">
@@ -75,7 +74,7 @@ const Beratung = () => {
               Das Kennenlerntelefonat ist unverbindlich und kostenlos.
               Das erste Beratungsgespräch ist kostenpflichtig.
             </p>
-            <Button size="lg" variant="sage" asChild>
+            <Button size="lg" variant="brown" asChild>
               <Link to="/#kontakt">Jetzt Kennenlerntelefonat vereinbaren</Link>
             </Button>
           </div>
