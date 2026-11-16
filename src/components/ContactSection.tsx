@@ -243,8 +243,8 @@ const ContactSection = () => {
                   <div>
                     <p className="font-medium text-foreground">Praxis</p>
                     <p className="text-muted-foreground">
-                      Dürrgrabenweg 21<br />
-                      8045 Graz
+                      Reitschulgasse 1, 2. Stock<br />
+                      8010 Graz
                     </p>
                   </div>
                 </div>

@@ -27,7 +27,7 @@ const Datenschutz = () => {
               <p className="font-semibold text-foreground">1. Verantwortliche</p>
               <p>
                 Mag. Maria Clar<br />
-                Dürrgrabenweg 21, 8045 Graz<br />
+                Reitschulgasse 1, 2. Stock, 8010 Graz<br />
                 E-Mail: <a href="mailto:office@mariaclar.at" className="hover:text-foreground transition-colors">office@mariaclar.at</a>
               </p>
             </div>

@@ -26,7 +26,7 @@ const Impressum = () => {
               <p className="font-semibold text-foreground">Angaben gemäß § 5 ECG</p>
               <p>Mag. Maria Clar</p>
               <p>Lebens- und Sozialberaterin, Mediatorin</p>
-              <p>Dürrgrabenweg 21<br />8045 Graz</p>
+              <p>Reitschulgasse 1, 2. Stock<br />8010 Graz</p>
               <p>
                 E-Mail:{" "}
                 <a href="mailto:office@mariaclar.at" className="hover:text-foreground transition-colors">
