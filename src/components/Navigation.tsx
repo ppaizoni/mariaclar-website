@@ -109,7 +109,7 @@ const Navigation = () => {
             <button
               type="button"
               onClick={() => goToAnchor("kontakt")}
-              className="bg-brown text-brown-foreground px-5 py-2 rounded-lg text-sm font-medium hover:bg-brown-dark transition-all"
+              className="bg-[#D9A08C] text-[#4A2E26] px-5 py-2 rounded-lg text-sm font-medium hover:bg-[#C98B77] transition-all"
             >
               Kontakt
             </button>
@@ -180,7 +180,7 @@ const Navigation = () => {
             <button
               type="button"
               onClick={() => goToAnchor("kontakt")}
-              className="bg-brown text-brown-foreground px-5 py-3 rounded-lg text-base font-medium hover:bg-brown-dark transition-all text-left"
+              className="bg-[#D9A08C] text-[#4A2E26] px-5 py-3 rounded-lg text-base font-medium hover:bg-[#C98B77] transition-all text-left"
             >
               Kontakt
             </button>
